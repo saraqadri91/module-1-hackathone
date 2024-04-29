@@ -1,0 +1,9 @@
+body{background-color: #FFF1E5;}
+.custm{color:#FC587B; font-size: 69px;
+}
+.fs{font-size: 32px;}
+.line{color:#BFBDBD ;}
+@media screen and (max-width:500px) {.custm{font-size: 42px;} .fs{font-size: 22px;}
+    
+}
+.clr{color: black;}
